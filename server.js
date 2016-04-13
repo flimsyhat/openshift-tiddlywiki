@@ -16,7 +16,7 @@ $tw.boot.argv = [
   "text/plain",
   "text/html",
   "sean",
-  "G3ckosl#d",
+  "test",
   process.env.OPENSHIFT_NODEJS_IP,
 ];
 
